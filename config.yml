@@ -1,0 +1,10 @@
+api:
+  json:
+    name: "json"
+    handler: "jsonHandler"
+  json2:
+    name: "json"
+    handler: "jsonHandler"
+
+kafka:
+  brokers: localhost:9092
